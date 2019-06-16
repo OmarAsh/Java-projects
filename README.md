@@ -1,2 +1,5 @@
 # Java-projects
-Some of the projects I'm working on using the Eclipse IDE
+
+A collection of the first games I worked on when I first started programming
+
+Good memories :smile:
